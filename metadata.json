@@ -1,0 +1,10 @@
+{
+  "name": "3D Turburchak Sakrovchi Online",
+  "description": "3D online ko'p o'yinchili platformer: to'rtburchak yerchalardan sakrab rekord qo'ying, do'stlaringiz bilan real vaqtda birga o'ynang va raqobatlashing!",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
